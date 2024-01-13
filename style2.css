@@ -1,0 +1,119 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    height:100vh;
+    background-image: linear-gradient(128deg,pink,purple);
+
+}
+.card{
+       height: 680px;
+       width:420px;
+       background: white;
+       margin:auto;
+       margin-top: 80px;
+       border-radius: 24px;
+       box-shadow: 10px 10px 10px black;
+       
+
+}
+.girl{
+
+   
+   /* width: 173px;
+    height: 173px; */
+    border-radius: 200px;
+    box-shadow: 1px 10px 18px rgb(170, 168, 168);
+    margin: auto;
+    margin-top: -100px;
+    margin-left:100px;
+  
+    
+}
+.ant{
+    
+    border-top-left-radius: 23px;
+    border-top-right-radius: 23px;
+    
+    
+}
+.text{
+   padding: 5px;
+   font-style: italic;
+   font-weight: bold;
+   font-size: x-large;
+   margin-left: 110px;
+}
+.subtext{
+    font-style: normal;
+    margin-left:150px;
+    color: rgb(177, 171, 171);
+}
+.nofol{
+    padding-top: 30px;
+    font-style:initial;
+   font-weight:bolder;
+   font-size:xx-large;
+   margin-left: 80px;
+   color: rgb(68, 172, 236);
+
+}
+.nofols{
+    padding-top: 30px;
+    font-style:initial;
+   font-weight: bold;
+   font-size: xx-large;
+   margin-left: 270px;
+   margin-top: -100px;
+   color: rgb(68, 172, 236);
+
+}
+.fol{
+    padding-top: 30px;
+    font-style:inherit;
+   font-weight:lighter;
+   font-size: large;
+   margin-left: 65px;
+   margin-top: -20px;
+   color: rgb(181, 182, 184);
+}
+.fols{
+    padding-top: 30px;
+    font-style:normal;
+   font-weight:lighter;
+   font-size: large;
+   margin-left: 270px;
+   margin-top: -20px;
+   color: rgb(181, 182, 184);
+}
+button{
+    height: 50px;
+    width: 70%;
+    margin-top: 30px;
+    margin-left: 60px;
+    border-radius: 32px;
+    font-weight: 700;
+    font-size: 20px;
+    color: black;
+    background-color: rgb(241, 204, 22);
+    border: none;
+}
+.para{
+    font-size: large;
+    font-style:inherit;
+    margin-left: 20px;
+    margin-top: 5px;
+    color: rgb(148, 146, 146);
+    word-spacing: 15px;
+    padding: 20px;
+    font-weight:600px;
+}
+.col{
+    margin-left: 400px;
+    margin-top:1px;
+}
+
+
